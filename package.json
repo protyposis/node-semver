@@ -1,6 +1,6 @@
 {
   "name": "semver-upr",
-  "version": "5.3.0",
+  "version": "5.4.0",
   "description": "The semantic version parser used by npm (with unlocked prerelease matching npm/node-semver#192).",
   "main": "semver.js",
   "scripts": {
